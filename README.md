@@ -1,7 +1,7 @@
 # Train-Ticket-Reservation
 
 ***********************************************************************************************************************************************************
-                                                 Train Ticket Reservation Portal
+                                                 ~Train Ticket Reservation Portal~
 ***********************************************************************************************************************************************************
 
 This is a Train Ticket Reservation Portal system is a python program made for booking train tickets, check ticket status, print Ticket and cancel it. 
